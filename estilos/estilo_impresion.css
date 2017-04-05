@@ -1,0 +1,96 @@
+.titulo_tabla_recibo{
+	font-size:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+
+
+.contenido_tabla_recibo{
+	font-size:9px;
+	font-family:Arial, Helvetica, sans-serif;
+	
+}
+
+
+.Titulo_principal {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #333333;
+}
+
+.tabla_datos_border_radius {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	border-radius: 5px 30px 45px 60px;
+}
+
+.titulo_ventana_emergente {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.titulo_tabla3 {
+	background-color:#333333;
+	color:#FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+
+}
+
+.titulo_tabla2 {
+	background-color:#333333;
+	color:#FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+.titulo_tabla {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.combo_solicitud {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #333333;
+}
+.combo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #192732;
+}
+.contenido_tabla {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+.menu_navegacion_paginas {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+}
+.menu_boton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+}
+.titulo_menu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #000000;
+	background-color: #D7E0E5;
+}
+.texto_informativo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+		
