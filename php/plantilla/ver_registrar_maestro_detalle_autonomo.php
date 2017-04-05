@@ -61,63 +61,11 @@ if(history.forward(1)){location.replace( history.forward(1) );}
                       <tr>
                         <td width="15%" align="right">
                         <a href="javascript:void(0);" class="push" onClick="navegar(36);">
-                            <img src="../../imagenes/sistema/logo.png" style="margin-left:10px;"  width="170" height="75" alt="logo">
+                            <img src="../../imagenes/sistema/logo.png" style="margin-left:10px;"  width="170" alt="logo">
                             </a>
                             </td>
                         <td width="60%" align="right">
-                            
-                      <? if($cod_navegacion != 36 && $ind_pantalla_menu == FALSE){ ?>
-                            <table width="90%" border="0">
-                              <tr>
-                                <td align="center" width="14%" valign="middle">
-                                    <a class="float" href="javascript:void(0);" onClick="f_ver_consultar_maetro_detalle(9,10);">
-                                        <img src="../../imagenes/sistema/3a.png">
-                                    </a>
-                                </td>
-                                
-                                <td align="center" width="14%" valign="middle">
-                                    <a class="float" href="javascript:void(0);" onClick="f_ver_consultar_tabla(4);">
-                                        <img src="../../imagenes/sistema/4.png">
-                                    </a>
-                                </td>
-                                
-                                <td align="center" width="14%" valign="middle">
-                                    <a class="float" href="javascript:void(0);" onClick="f_ver_consultar_maetro_detalle(7,8);">
-                                        <img src="../../imagenes/sistema/9.png" >
-                                    </a>
-                                </td>
-                                    
-                                <td align="center" width="14%" valign="middle">
-                                    <a class="float" href="javascript:void(0);" onClick="f_ver_consultar_tabla(13);">
-                                        <img src="../../imagenes/sistema/5.png">
-                                    </a>
-                                </td>
-                                
-                                <td align="center" width="14%" valign="middle">
-                                    <a class="float" href="javascript:void(0);" onClick="f_ver_consultar_tabla(5);">
-                                        <img src="../../imagenes/sistema/7.png">
-                                    </a>
-                                </td>
-                                
-                                <td align="center" width="14%" valign="middle">
-                                    <a class="float" href="javascript:void(0);" onClick="f_ver_consultar_maetro_detalle(1,3);">
-                                        <img src="../../imagenes/sistema/6.png" border="0" alt="" >
-                                    </a>
-                                </td>
-                                
-                               <!-- <td align="center" width="16%" valign="middle">
-                                    <a class="float" href="javascript:void(0);" onClick="f_ver_consultar_maetro_detalle(1,2);">
-                                        <img src="../imagenes/sistema/2.png">
-                                    </a>
-                                </td>-->
-                                 <td align="center" width="16%" valign="middle">
-                                    <a class="float" href="javascript:void(0);" onClick="navegar(200);">
-                                        <img src="../../imagenes/sistema/3b.png">
-                                    </a>
-                                </td>
-                              </tr>
-                         </table>
-                    <? } ?>
+                        
             
            </td>
            <td width="15%" nowrap>
@@ -244,21 +192,10 @@ for($i=0; $i<$num_columnas; $i++){
                 </td>
               </tr>
               <tr>
-                <td align="center" class="td_footer" ><table width="60%" border="0">
-                  <tr>
-                    <td><img src="../../imagenes/sistema/logos/soluciones.png" alt="" width="99" height="30"></td>
-                    <td><img src="../../imagenes/sistema/logos/empresas.png" alt="" width="100" height="30"></td>
-                    <td><img src="../../imagenes/sistema/logos/protecto.png" alt="" width="90" height="30"></td>
-                    <td><img src="../../imagenes/sistema/logos/juridicas.png" alt="" width="88" height="28"></td>
-                    <td><img src="../../imagenes/sistema/logos/perdure.png" alt="" width="94" height="30"></td>
-                    <td><img src="../../imagenes/sistema/logos/fiduprot.png" alt="" width="44" height="41"></td>
-                  </tr>
-                </table></td>
+                <td align="center" class="td_footer" ></td>
               </tr>
               <tr>
-                <td colspan="2" align="center" class="td_footer" >Cardona &amp; Consultores Asociados s.a.s. |  Administrador de contenido CRM |
-Desarrollado por: Deck Soluciones | &copy; 2015 Deck Soluciones - Todos los derechos reservados.
-              </tr>
+                <td colspan="2" align="center" class="td_footer" >| Prueba Backend | Desarrollado por: Luis Prieto | © 2017</tr>
             </table>
             
             

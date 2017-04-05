@@ -56,7 +56,7 @@ if(history.forward(1)){location.replace( history.forward(1) );}
                       <tr>
                         <td width="15%" align="right">
                         <a href="javascript:void(0);" class="push" onClick="navegar(36);">
-                            <img src="../../imagenes/sistema/logo.png" style="margin-left:10px;"  width="170" height="75" alt="logo">
+                            <img src="../../imagenes/sistema/logo.png" style="margin-left:10px;"  width="170"  alt="logo">
                             </a>
                             </td>
                         <td width="60%" align="right">

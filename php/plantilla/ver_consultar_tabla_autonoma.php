@@ -72,7 +72,7 @@ $(document).ready(function(){$(".link_display").click(function(){$(".display_div
                       <tr>
                         <td width="15%" align="right">
                         <a href="javascript:void(0);" class="push" onClick="navegar(36);">
-                            <img src="../../imagenes/sistema/logo.png" style="margin-left:10px;"  width="170" height="75" alt="logo">
+                            <img src="../../imagenes/sistema/logo.png" style="margin-left:10px;"  width="170" alt="logo">
                             </a>
                             </td>
                         <td width="60%" align="right">
